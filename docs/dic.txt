@@ -1,0 +1,1850 @@
+﻿ April ; Apr 		
+ China ; People's Republic of China ; mainland China ; Communist China ; Red China ;  Cathay 		
+ Chinese 		
+ Czech Republic 		
+ December ; Dec 		
+ Earth ; earth ; world ; globe 		
+ English ; English language 		
+ February ; Feb 		
+ France ; French Republic 		
+ French 		
+ Friday ; Fri 		
+ German ; High German ; German language 		
+ Germany ; Federal Republic of Germany ; Deutschland ; FRG 		
+ Hindi 		
+ India ; Republic of India ; Bharat 		
+ Italian 		
+ Italy ; Italian Republic ; Italia 		
+ January ; Jan 		
+ Japan ; Nippon ; Nihon 		
+ Japanese 		
+ July 		
+ June 		
+ Monday ; Mon 		
+ Moon ; moon 		
+ November ; Nov 		
+ October ; Oct 		
+ Russian 		
+ Saturday ; Sabbatum ; Sat 		
+ Spain ; Kingdom of Spain ; Espana 		
+ Spanish 		
+ Sunday ; Lord's Day ; Dominicus ; Sun 		
+ Thursday ; Th 		
+ United Kingdom ; UK ;  ; Britain ; United Kingdom of Great Britain and Northern Ireland ; Great Britain 		
+ United States ; United States of America ; America ; the States ; US ;  ; USA ; 
+ Wednesday ; Midweek ; Wed 		
+ ability ; power 		
+ able 		
+ about ; almost ; most ; nearly ; near ; nigh ; virtually ; well-nigh 		
+ about ; around 		
+ above ; higher up ; in a higher place ; to a higher place 		
+ abrupt ; precipitous ; sharp 		
+ accept ; take ; have 		
+ accident 		
+ account ; business relationship 		
+ achieve ; accomplish ; attain ; reach 		
+ acid 		
+ acid 		
+ acme ; height ; elevation ; peak ; pinnacle ; summit ; superlative ; meridian ; tiptop ; top 		
+ across 		
+ across ; crosswise ; crossways 		
+ act ; deed ; human action ; human activity 		
+ act ; move 		
+ action 		
+ action 		
+ action ; activity ; activeness 		
+ actor ; histrion ; player ; thespian ; role player 		
+ actress 		
+ actually ; really 		
+ acuate ; acute ; sharp ; needlelike 		
+ ad ; advertisement ; advertizement ; advertising ; advertizing ; advert 		
+ add 		
+ add ; add together 		
+ addition ; add-on ; improver 		
+ address 		
+ adept ; expert ; good ; practiced ; proficient ; skillful ; skilful 		
+ adjacent ; next ; side by side 		
+ adjective 		
+ admit ; acknowledge 		
+ advantage ; reward 		
+ advantage ; vantage 		
+ advice 		
+ affect ; impact ; bear upon ; bear on ; touch on ; touch 		
+ after 		
+ afternoon 		
+ again ; once again ; once more ; over again 		
+ against 		
+ age 		
+ ago ; agone 		
+ agree ; hold ; concur ; concord 		
+ agreement ; understanding 		
+ ahead ; in front ; before 		
+ aid ; assist ; assistance ; help 		
+ air 		
+ airheaded ; dizzy ; empty-headed ; featherbrained ; giddy ; light-headed ; lightheaded ; silly 		
+ airplane ; aeroplane ; plane 		
+ airport ; airdrome ; aerodrome ; drome 		
+ alive ; live 		
+ all 		
+ alone ; lone ; lonely ; solitary 		
+ along 		
+ already 		
+ alternatively ; instead ; or else 		
+ altitude ; height 		
+ always ; ever ; 
+ among ; amongst ; amid ; amidst 		
+ amount 		
+ and 		
+ angle 		
+ angry 		
+ animal ; animate being ; beast ; brute ; creature ; fauna 		
+ announce ; denote 		
+ announcement ; proclamation ; annunciation ; declaration 		
+ another ; some other 		
+ answer ; reply ; respond 		
+ answer ; reply ; response 		
+ ant ; emmet ; pismire 		
+ anteroom ; antechamber ; entrance hall ; hall ; foyer ; lobby ; vestibule 		
+ any ; whatever ; whatsoever 		
+ apartment ; flat 		
+ apparel ; wearing apparel ; dress ; clothes 		
+ apple 		
+ approximately ; about ; close to ; just about ; some ; roughly ; more or less ; around ; or so 		
+ area ; expanse ; surface area 		
+ argent ; silver ; silvery ; silverish 		
+ argue ; contend ; debate ; fence 		
+ argue ; reason 		
+ argument ; statement 		
+ arm 		
+ army ; regular army ; ground forces 		
+ arrangement ; organization ; organisation ; system 		
+ arrive ; make it ; get in ; go far 		
+ art ; fine art 		
+ artist ; creative person 		
+ ask ; inquire ; enquire 		
+ aspect 		
+ assail ; assault ; set on ; attack 		
+ associate ; tie in ; relate ; link ; colligate ; link up ; connect 		
+ astute ; sharp ; shrewd 		
+ at 		
+ attack ; onslaught ; onset ; onrush 		
+ attempt ; effort ; endeavor ; endeavour ; try 		
+ attention ; attending 		
+ attitude ; mental attitude 		
+ audio ; sound 		
+ aureate ; gilded ; gilt ; gold ; golden 		
+ authoritative ; important 		
+ authority ; authorization ; authorisation ; potency ; dominance ; say-so 		
+ automatic 		
+ available 		
+ avoid 		
+ awake 		
+ award ; accolade ; honor ; honour ; laurels 		
+ baby ; babe ; infant 		
+ back 		
+ back ; dorsum 		
+ bad 		
+ bag 		
+ bag ; handbag ; pocketbook ; purse 		
+ bag ; traveling bag ; travelling bag ; grip ; suitcase 		
+ balance 		
+ ball 		
+ bang-up ; bully ; corking ; cracking ; dandy ; great ; groovy ; keen ; neat ; nifty ; not bad ; peachy ; slap-up ; swell ; smashing 		
+ bank 		
+ barbarous ; brutal ; cruel ; fell ; roughshod ; savage ; vicious 		
+ bargain ; deal 		
+ base ; base of operations 		
+ baseball ; baseball game 		
+ basic 		
+ basket ; handbasket 		
+ bath 		
+ bathroom ; bath 		
+ be 		
+ be ; live 		
+ beach 		
+ beak ; bill ; neb ; nib ; pecker 		
+ bear 		
+ bear 		
+ beat ; beat out ; crush ; shell ; trounce ; vanquish 		
+ beautiful 		
+ because 		
+ become ; go ; get 		
+ bed 		
+ bedroom ; sleeping room ; sleeping accommodation ; chamber ; bedchamber 		
+ bee 		
+ beer 		
+ beginning ; commencement ; first ; outset ; get-go ; start ; kickoff ; starting time ; showtime ; offset 		
+ beginning ; origin ; root ; rootage ; source 		
+ behave ; acquit ; bear ; deport ; conduct ; comport ; carry 		
+ behind 		
+ being ; beingness ; existence 		
+ believe 		
+ bell 		
+ beloved ; dear ; dearest ; honey ; love 		
+ bend ; curve 		
+ benefit ; do good 		
+ beside 		
+ besides ; too ; also ; likewise ; as well 		
+ bespeak ; betoken ; indicate ; point ; signal 		
+ best 		
+ better 		
+ better 		
+ better ; improve ; amend ; ameliorate ; meliorate 		
+ between ; betwixt 		
+ beverage ; drink ; drinkable ; potable 		
+ beyond 		
+ bicycle ; bike ; wheel ; cycle 		
+ bill ; account ; invoice 		
+ bill ; note ; government note ; bank bill ; banker's bill ; bank note ; banknote ; Federal Reserve note ; greenback 		
+ biology ; biological science 		
+ bird 		
+ birth ; nativity ; nascency ; nascence 		
+ birthday 		
+ bit ; chip ; flake ; fleck ; scrap 		
+ bite 		
+ bite ; seize with teeth 		
+ bitter 		
+ black 		
+ blade 		
+ blessing ; approval ; approving 		
+ blood 		
+ blow 		
+ blue ; bluish ; blueish 		
+ blueprint ; design ; pattern 		
+ board 		
+ boat 		
+ bone ; os 		
+ book ; volume 		
+ boot 		
+ boring ; deadening ; dull ; ho-hum ; irksome ; slow ; tedious ; tiresome ; wearisome 		
+ both 		
+ bottle 		
+ box 		
+ boyfriend ; fellow ; beau ; swain ; young man 		
+ brain ; encephalon 		
+ branch 		
+ brand ; make 		
+ bread ; breadstuff ; staff of life 		
+ break 		
+ breakfast 		
+ breast ; chest 		
+ breath 		
+ brick 		
+ bridge ; span 		
+ bright ; brilliant ; vivid 		
+ bring ; convey ; take 		
+ broken 		
+ brother ; blood brother 		
+ brow ; forehead 		
+ brown ; brownish ; chocolate-brown ; dark-brown 		
+ brush 		
+ brusque ; brusk ; curt ; short 		
+ building ; edifice 		
+ bulk ; mass ; volume 		
+ burn ; fire ; burn down 		
+ bus ; autobus ; coach ; charabanc ; double-decker ; jitney ; motorbus ; motorcoach ; omnibus ; passenger vehicle 		
+ business ; concern ; business concern ; business organization ; business organisation 		
+ businessman ; man of affairs 		
+ businesswoman 		
+ butter 		
+ buy ; purchase 		
+ by ; past 		
+ by and large ; generally ; more often than not ; mostly 		
+ cake 		
+ calculator ; reckoner ; figurer ; estimator ; computer 		
+ calendar month ; month 		
+ call ; phone call ; telephone call 		
+ call ; telephone ; call up ; phone ; ring 		
+ camera ; photographic camera 		
+ campaign ; cause ; crusade ; drive ; movement ; effort 		
+ can ; tin ; tin can 		
+ capital 		
+ capital ; capital letter ; uppercase ; upper-case letter ; majuscule 		
+ capital ; working capital 		
+ car ; auto ; automobile ; machine ; motorcar 		
+ carbohydrate ; saccharide ; sugar 		
+ card 		
+ cardinal ; central ; fundamental ; key ; primal 		
+ care 		
+ care ; attention ; aid ; tending 		
+ case ; instance ; example 		
+ castle 		
+ cat ; true cat 		
+ catch ; grab ; take hold of 		
+ cause 		
+ cell 		
+ cell ; jail cell ; prison cell 		
+ cellular telephone ; cellular phone ; cellphone ; cell ; mobile phone 		
+ center ; centre ; middle ; heart ; eye 		
+ center ; centre ; midpoint 		
+ central 		
+ central ; telephone exchange ; exchange 		
+ century 		
+ certain ; sure 		
+ chain 		
+ chair 		
+ championship ; title 		
+ change 		
+ change ; alter ; modify 		
+ change ; alteration ; modification 		
+ character ; grapheme ; graphic symbol 		
+ charge 		
+ charge ; accuse 		
+ charge ; bill 		
+ charge ; complaint 		
+ charge ; electric charge 		
+ cheap ; inexpensive 		
+ check ; bank check ; cheque 		
+ cheese 		
+ chemical ; chemic 		
+ chemical ; chemical substance 		
+ chemical element ; element 		
+ chemistry ; chemical science 		
+ chest 		
+ chief ; main ; primary ; principal ; master 		
+ child ; kid 		
+ child ; kid ; youngster ; minor ; shaver ; nipper ; small fry ; tiddler ; tike ; tyke ; fry ; nestling 		
+ chin ; mentum 		
+ chocolate 		
+ choice ; selection ; option ; pick 		
+ choose ; take ; select ; pick out 		
+ church ; church building 		
+ cinema ; movie theater ; movie theatre ; movie house ; picture palace 		
+ circle 		
+ city ; metropolis ; urban center 		
+ claim 		
+ claim 		
+ clandestine ; cloak-and-dagger ; hole-and-corner ; hugger-mugger ; hush-hush ; secret ; surreptitious ; undercover ; underground 		
+ class ; form ; grade ; course 		
+ classify ; class ; sort ; assort ; sort out ; separate 		
+ clean 		
+ clean ; make clean 		
+ clear 		
+ clearly 		
+ clock 		
+ close ; shut 		
+ clothing ; article of clothing ; vesture ; wear ; wearable ; habiliment 		
+ cloud 		
+ club 		
+ club ; social club ; society ; guild ; gild ; lodge ; order 		
+ coal 		
+ coat 		
+ coffee ; java 		
+ cognition ; knowledge ; noesis 		
+ coil ; whorl ; roll ; curl ; curlicue ; ringlet ; gyre ; scroll 		
+ cold 		
+ cold ; common cold 		
+ coldness ; cold ; low temperature ; frigidity ; frigidness 		
+ collar ; neckband 		
+ color ; colour 		
+ color ; colour ; coloring ; colouring 		
+ coloring material ; colouring material ; color ; colour 		
+ come ; come up 		
+ committee ; commission 		
+ common 		
+ common ; mutual 		
+ common ; usual 		
+ community 		
+ company 		
+ company ; companionship ; fellowship ; society 		
+ compare 		
+ comparison ; comparing 		
+ competition 		
+ complete ; consummate 		
+ complete ; finish 		
+ complimentary ; costless ; free ; gratis ; gratuitous 		
+ component ; constituent ; element ; factor ; ingredient 		
+ computer ; computing machine ; computing device ; data processor ; electronic computer ; information processing system 		
+ concert 		
+ concluding ; final ; last ; terminal 		
+ condition ; status 		
+ confront ; face up ; face 		
+ connection ; connexion ; connectedness 		
+ connection ; connexion ; connector ; connecter ; connective 		
+ conscious ; witting 		
+ consequence ; effect ; outcome ; result ; event ; issue ; upshot 		
+ construct ; build ; make 		
+ contend ; fight ; struggle 		
+ contest ; competition 		
+ continue ; go on ; proceed ; go along ; keep 		
+ contract 		
+ control 		
+ control ; command 		
+ controversy ; contention ; contestation ; disputation ; disceptation ; tilt ; argument ; arguing 		
+ cook 		
+ cook 		
+ cook ; fix ; ready ; make ; prepare 		
+ cope ; get by ; make out ; make do ; contend ; grapple ; deal ; manage 		
+ copy 		
+ copy ; re-create 		
+ correct ; right 		
+ cost 		
+ cotton 		
+ cotton ; cotton fiber ; cotton wool 		
+ cough 		
+ cough ; coughing 		
+ council 		
+ count ; matter ; weigh 		
+ country ; state ; land 		
+ couple ; pair ; twosome ; twain ; brace ; span ; yoke ; couplet ; distich ; duo ; duet ; dyad ; duad 		
+ course ; course of study ; course of instruction ; class 		
+ court ; courtroom 		
+ court ; tribunal ; judicature 		
+ cow ; moo-cow 		
+ crack ; cleft ; crevice ; fissure ; scissure 		
+ crime ; offense ; criminal offense ; criminal offence ; offence ; law-breaking 		
+ crude ; rough 		
+ crush 		
+ crush ; crunch ; compaction 		
+ cry ; outcry ; call ; yell ; shout ; vociferation 		
+ cry ; weep 		
+ culture ; civilization ; civilisation 		
+ cup 		
+ cup ; loving cup 		
+ cupboard ; closet 		
+ current 		
+ current ; electric current 		
+ current ; stream 		
+ curtain ; drape ; drapery ; mantle ; pall 		
+ curvature ; curve 		
+ curve ; curved shape 		
+ customer ; client 		
+ cut 		
+ cut ; cutting 		
+ dainty ; nice ; overnice ; prissy ; squeamish 		
+ damage 		
+ damage ; harm ; impairment 		
+ dance ; trip the light fantastic ; trip the light fantastic toe 		
+ dance band ; band ; dance orchestra 		
+ danger 		
+ dangerous ; unsafe 		
+ dark 		
+ data ; information 		
+ date ; appointment ; engagement 		
+ date ; day of the month 		
+ daughter ; girl 		
+ day ; twenty-four hours ; twenty-four hour period ; 24-hour interval ; solar day ; mean solar day 		
+ daze ; shock ; stupor 		
+ dead 		
+ dead 		
+ death 		
+ death ; decease ; expiry 		
+ decide ; make up one's mind ; determine 		
+ decision ; determination ; conclusion 		
+ decoration ; ornament ; ornamentation 		
+ deep 		
+ defense ; defence ; defense force ; defence force 		
+ degree 		
+ degree ; grade ; level 		
+ delicate 		
+ delicate ; fragile ; frail 		
+ deliver 		
+ demeanor ; demeanour ; behavior ; behaviour ; conduct ; deportment 		
+ democracy ; republic ; commonwealth 		
+ department ; section 		
+ dependable ; good ; safe ; secure 		
+ deplorable ; distressing ; lamentable ; pitiful ; sad ; sorry 		
+ depository financial institution ; bank ; banking concern ; banking company 		
+ describe ; depict ; draw 		
+ design ; designing 		
+ design ; plan 		
+ desire ; want 		
+ desk 		
+ destruction ; devastation 		
+ detail ; particular ; item 		
+ detect ; observe ; find ; discover ; notice 		
+ determine ; check ; find out ; see ; ascertain ; watch ; learn 		
+ develop 		
+ development ; evolution 		
+ deviation ; divergence ; departure ; difference 		
+ dictionary ; lexicon 		
+ die ; decease ; perish ; go ; exit ; pass away ; expire ; pass ; kick the bucket ; cash in one's chips ; buy the farm ; conk ; give-up the ghost ; drop dead ; pop off ; choke ; croak ; snuff it 		
+ difference 		
+ different 		
+ different 		
+ difficult ; hard 		
+ difficulty 		
+ direction 		
+ directly ; straight ; direct 		
+ director ; manager ; managing director 		
+ dirty ; dingy ; muddied ; muddy 		
+ dirty ; soiled ; unclean 		
+ discipline ; subject ; subject area ; subject field ; field ; field of study ; study ; bailiwick 		
+ discover ; find 		
+ discovery ; breakthrough ; find 		
+ discovery ; find ; uncovering 		
+ discussion ; give-and-take ; word 		
+ disease 		
+ dislike 		
+ displace ; fire ; give notice ; can ; dismiss ; give the axe ; send away ; sack ; force out ; give the sack ; terminate 		
+ distance 		
+ diverse ; various 		
+ diverseness ; diversity ; multifariousness ; variety 		
+ divide ; split ; split up ; separate ; dissever ; carve up 		
+ division ; partition ; partitioning ; segmentation ; sectionalization ; sectionalisation 		
+ doctor ; doc ; physician ; MD ; Dr. ; medico 		
+ dog ; domestic dog ; Canis familiaris 		
+ dominance ; ascendance ; ascendence ; ascendancy ; ascendency ; control 		
+ dominion ; rule 		
+ door 		
+ doubt 		
+ doubt ; uncertainty ; incertitude ; dubiety ; doubtfulness ; dubiousness 		
+ down 		
+ down ; downwards ; downward ; downwardly 		
+ drawer 		
+ drink ; imbibe 		
+ drive 		
+ drop ; drib ; driblet 		
+ dry 		
+ dry ; dry out 		
+ dry ; dry out 		
+ during 		
+ dust 		
+ duty 		
+ dwelling ; home ; domicile ; abode ; habitation ; dwelling house 		
+ each 		
+ ear 		
+ earlier ; before 		
+ early 		
+ early on ; early 		
+ earth ; ground 		
+ east 		
+ east ; due east ; eastward ; E 		
+ easy 		
+ eat 		
+ economic 		
+ economic ; economical 		
+ economy ; economic system 		
+ edge ; border 		
+ education 		
+ education 		
+ education ; instruction ; teaching ; pedagogy ; didactics ; educational activity 		
+ effort ; elbow grease ; exertion ; travail ; sweat 		
+ egg 		
+ eight ; 8 ; viii 		
+ eighteen ; 18 ; xviii 		
+ eighth ; 8th 		
+ eighty ; 80 ; lxxx ; fourscore 		
+ either 		
+ election 		
+ electric ; electrical 		
+ elementary ; simple ; uncomplicated ; unproblematic 		
+ elephant 		
+ elevator ; lift 		
+ eleven ; 11 ; xi 		
+ eleventh ; 11th 		
+ embrace ; encompass ; comprehend ; cover 		
+ encourage 		
+ end ; stop ; finish ; terminate ; cease 		
+ end ; terminal 		
+ energy ; free energy 		
+ engine 		
+ engineering ; engineering science ; applied science ; technology 		
+ enhance ; heighten ; raise 		
+ enjoy ; bask ; relish ; savor ; savour 		
+ enough ; plenty 		
+ enter ; come in ; get into ; get in ; go into ; go in ; move into 		
+ entertainment ; amusement 		
+ entirely ; exclusively ; solely ; alone ; only 		
+ entitle ; title 		
+ envelope 		
+ environment 		
+ environment ; environs ; surroundings ; surround 		
+ equal 		
+ equally ; as ; every bit 		
+ erstwhile ; former ; old ; onetime ; one-time ; quondam ; sometime 		
+ especial ; exceptional ; particular ; special 		
+ establish ; found ; plant ; constitute ; institute 		
+ estimate ; gauge ; approximate ; guess ; judge 		
+ estrus ; oestrus ; heat ; rut 		
+ even 		
+ even 		
+ even ; fifty-fifty 		
+ evening ; eve ; even ; eventide 		
+ event 		
+ event ; case 		
+ every 		
+ everybody ; everyone 		
+ everything 		
+ evidence 		
+ examination ; exam ; test 		
+ example ; illustration ; instance ; representative 		
+ exceed ; transcend ; overstep ; pass ; go past ; top 		
+ excellent ; first-class ; fantabulous ; splendid 		
+ exist ; be 		
+ exit ; go out ; get out ; leave 		
+ expect ; look ; await ; wait 		
+ experience 		
+ experience 		
+ expert 		
+ explain ; explicate 		
+ express ; limited 		
+ express ; state 		
+ expression ; look ; aspect ; facial expression ; face 		
+ eye ; oculus ; optic 		
+ fabric ; cloth ; material ; textile 		
+ face ; human face 		
+ fact 		
+ factory ; mill ; manufacturing plant ; manufactory 		
+ fail ; neglect 		
+ fake ; false ; faux ; imitation ; simulated 		
+ fall 		
+ fall ; autumn 		
+ false 		
+ false ; mistaken 		
+ family ; family unit 		
+ family ; household ; house ; home ; menage 		
+ far 		
+ farm 		
+ fast 		
+ fat 		
+ fat 		
+ father ; male parent ; begetter 		
+ fatty ; fat 		
+ fear 		
+ fear ; fearfulness ; fright 		
+ feather ; plume ; plumage 		
+ feature ; characteristic 		
+ feel ; experience 		
+ feel ; sense 		
+ feeling 		
+ female 		
+ female ; female person 		
+ few 		
+ fiddling ; footling ; lilliputian ; little ; niggling ; piddling ; piffling ; petty ; picayune ; trivial 		
+ field 		
+ fierce ; tearing ; vehement ; violent ; trigger-happy 		
+ fifteen ; 15 ; xv 		
+ fifth ; 5th 		
+ fifty ; 50 ; l 		
+ fight ; fighting ; combat ; scrap 		
+ fill ; fill up ; make full 		
+ film ; cinema ; celluloid 		
+ find ; regain 		
+ finger 		
+ finish ; destination ; goal 		
+ fire 		
+ fire ; flame ; flaming 		
+ firm ; house ; business firm 		
+ firm ; solid 		
+ first 		
+ first ; 1st 		
+ first ; firstly ; foremost ; first of all ; first off 		
+ fiscal ; financial 		
+ fish 		
+ five ; 5 ; v 		
+ fix ; prepare ; set up ; ready ; gear up ; set 		
+ fixed 		
+ flag 		
+ flat ; level ; plane 		
+ flight ; flying 		
+ flim-flam ; play a joke on ; play tricks ; trick ; fob ; fox ; pull a fast one on ; play a trick on 		
+ floor ; flooring 		
+ floor ; level ; storey ; story 		
+ flower 		
+ flush ; level ; even out ; even 		
+ fly 		
+ fly ; wing 		
+ fold ; crease ; plication ; flexure ; crimp ; bend 		
+ follow 		
+ following ; next 		
+ food ; nutrient 		
+ foot ; human foot ; pes 		
+ football ; football game 		
+ footing ; basis ; ground 		
+ footstep ; pace ; step ; stride 		
+ for 		
+ force ; forcefulness ; strength 		
+ foreign ; strange 		
+ forest ; wood ; woods 		
+ forget 		
+ forgive 		
+ fork 		
+ form 		
+ form ; shape ; cast 		
+ forty ; 40 ; xl ; twoscore 		
+ forward ; forwards ; frontward ; frontwards ; forrad ; forrard 		
+ four ; 4 ; iv 		
+ fourteen ; 14 ; xiv 		
+ fourth ; 4th ; quaternary 		
+ fourth dimension ; time 		
+ frame 		
+ free 		
+ free ; liberate ; release ; unloose ; unloosen ; loose 		
+ frequent 		
+ frequently ; often ; oftentimes ; oft ; ofttimes 		
+ fresh 		
+ friend 		
+ friendly 		
+ front 		
+ front ; front end ; forepart 		
+ fruit 		
+ full 		
+ full ; total 		
+ fume ; smoke 		
+ function ; office ; part ; role 		
+ function ; purpose ; role ; use 		
+ function ; work ; operate ; go ; run 		
+ furniture ; piece of furniture ; article of furniture 		
+ further ; farther 		
+ future 		
+ future ; hereafter ; futurity ; time to come 		
+ gamble ; chance ; risk ; hazard ; take chances ; adventure ; run a risk ; take a chance 		
+ game 		
+ game 		
+ garage 		
+ garden 		
+ gate 		
+ gene ; cistron ; factor 		
+ general 		
+ general ; full general 		
+ get ; acquire 		
+ get down ; begin ; get ; start out ; start ; set about ; set out ; commence 		
+ get up 		
+ girl ; miss ; missy ; young lady ; young woman ; fille 		
+ girlfriend ; girl ; lady friend 		
+ give 		
+ glass 		
+ glass ; drinking glass 		
+ glue ; gum ; mucilage 		
+ glue ; paste 		
+ gluey ; glutinous ; gummy ; mucilaginous ; pasty ; sticky ; viscid ; viscous 		
+ goal 		
+ goat ; caprine animal 		
+ gold ; Au ; atomic number 79 		
+ golf ; golf game 		
+ good 		
+ good ; goodness 		
+ good ; just ; upright 		
+ good ; sound 		
+ good ; well 		
+ govern ; rule 		
+ government ; authorities ; regime 		
+ gradient ; slope 		
+ grain 		
+ grandfather ; gramps ; granddad ; grandad ; granddaddy ; grandpa 		
+ grass 		
+ gray ; grayness ; grey ; greyness 		
+ great 		
+ green ; greenish ; light-green ; dark-green 		
+ grey ; gray ; greyish ; grayish 		
+ group ; grouping 		
+ grow 		
+ guest ; invitee 		
+ guitar 		
+ gun 		
+ hair 		
+ hair ; pilus 		
+ hammer 		
+ hand ; manus ; mitt ; paw 		
+ handle ; grip ; handgrip ; hold 		
+ hapless ; miserable ; misfortunate ; pathetic ; piteous ; pitiable ; pitiful ; poor ; wretched 		
+ happen ; hap ; go on ; pass off ; occur ; pass ; fall out ; come about ; take place 		
+ happy 		
+ hash out ; discuss ; talk over 		
+ hat ; chapeau ; lid 		
+ hate ; detest 		
+ hate ; hatred 		
+ hateful ; mean 		
+ have ; have got ; hold 		
+ hazard ; jeopardy ; peril ; risk ; endangerment 		
+ he 		
+ head ; caput 		
+ head ; chief ; top dog 		
+ health 		
+ health ; wellness 		
+ healthy 		
+ healthy ; salubrious ; good for you 		
+ hear 		
+ heart ; pump ; ticker 		
+ heavy 		
+ heed ; mind ; listen 		
+ hello ; hullo ; hi ; howdy ; how-do-you-do 		
+ help ; aid 		
+ help ; assist ; aid 		
+ her 		
+ here 		
+ here ; hither 		
+ herself 		
+ high 		
+ hill 		
+ him 		
+ himself 		
+ his 		
+ historic period ; age 		
+ history 		
+ hit ; hitting ; striking 		
+ hit ; smash ; smasher ; strike ; bang 		
+ hog ; pig ; grunter ; squealer ; Sus scrofa 		
+ hold ; take hold 		
+ hole 		
+ home ; place 		
+ homo ; man ; human being ; human 		
+ hook ; claw 		
+ hope 		
+ horse ; Equus caballus 		
+ hospital ; infirmary 		
+ hot 		
+ hotel 		
+ hotness ; heat ; high temperature 		
+ hour ; hr ; 60 minutes 		
+ house 		
+ however ; nevertheless ; withal ; still ; yet ; all the same ; even so ; nonetheless ; notwithstanding 		
+ human 		
+ humor ; humour ; sense of humor ; sense of humour 		
+ hundred ; one hundred ; 100 ; c 		
+ hungry 		
+ hurt ; injure 		
+ husband ; hubby ; married man 		
+ ice 		
+ ice ; water ice 		
+ idea ; thought 		
+ identify ; place 		
+ if 		
+ ill ; sick 		
+ image 		
+ imitate ; copy ; simulate 		
+ immediately ; instantly ; straightaway ; straight off ; directly ; now ; right away ; at once ; forthwith ; like a shot 		
+ impatient 		
+ imperial ; majestic ; purple ; regal ; royal 		
+ imply ; involve 		
+ important ; of import 		
+ in ; inwards ; inward 		
+ inaugural ; initiative ; initiatory ; first ; maiden 		
+ include 		
+ income 		
+ incorporate ; contain ; comprise 		
+ incorrect ; wrong 		
+ increase 		
+ increase ; increment 		
+ increase ; increment ; growth 		
+ indeed ; so 		
+ individual 		
+ individual ; private 		
+ induce ; stimulate ; cause ; have ; get ; make 		
+ industrial 		
+ industry ; manufacture 		
+ infinitesimal ; minute 		
+ information 		
+ information ; info 		
+ injure ; wound 		
+ ink 		
+ inquiry ; enquiry ; research 		
+ insect 		
+ inside ; within 		
+ institution ; establishment 		
+ instrument 		
+ insurance 		
+ intelligent 		
+ intend ; mean ; think 		
+ interest 		
+ interest ; involvement 		
+ interesting 		
+ international 		
+ internet ; net ; cyberspace 		
+ interview 		
+ into 		
+ introduce ; innovate 		
+ introduce ; present ; acquaint 		
+ invention ; innovation ; excogitation ; conception ; design 		
+ iron ; Fe ; atomic number 26 		
+ island 		
+ issue 		
+ issue ; number 		
+ it 		
+ its 		
+ itself 		
+ jacket 		
+ jewel ; gem ; precious stone 		
+ job ; task ; chore 		
+ join ; bring together 		
+ jolt ; jar ; jounce ; shock 		
+ journalist 		
+ journey ; journeying 		
+ judge ; justice ; jurist 		
+ jump ; leap ; bound ; spring 		
+ just 		
+ keep ; maintain ; hold 		
+ kernel ; substance ; core ; center ; centre ; essence ; gist ; heart ; heart and soul ; inwardness ; marrow ; meat ; nub ; pith ; sum ; nitty-gritty 		
+ key 		
+ key 		
+ kick 		
+ kick ; boot ; kicking 		
+ kill 		
+ kind 		
+ kind ; sort ; form ; variety 		
+ king ; male monarch ; Rex 		
+ kiss ; buss ; osculation 		
+ kitchen 		
+ knee ; knee joint ; human knee ; articulatio genus ; genu 		
+ knife 		
+ knot 		
+ know ; cognize ; cognise 		
+ laid ; set 		
+ lake 		
+ land ; dry land ; earth ; ground ; solid ground ; terra firma 		
+ land ; ground ; soil 		
+ land ; set down 		
+ language ; linguistic communication 		
+ language ; speech 		
+ large ; big 		
+ last 		
+ last ; lastly ; in conclusion ; finally 		
+ late 		
+ late ; belatedly ; tardily 		
+ late ; later 		
+ laugh ; express joy ; express mirth 		
+ law 		
+ lead ; Pb ; atomic number 82 		
+ lead ; head 		
+ lead ; take ; direct ; conduct ; guide 		
+ leader 		
+ leaf ; leafage ; foliage 		
+ leap ; jump ; saltation 		
+ learn ; larn ; acquire 		
+ least ; to the lowest degree 		
+ leather 		
+ leave 		
+ leave ; leave of absence 		
+ left 		
+ leg 		
+ legal 		
+ less 		
+ let 		
+ let ; allow ; permit 		
+ letter ; letter of the alphabet ; alphabetic character 		
+ letter ; missive 		
+ library 		
+ lie 		
+ lie 		
+ lie ; prevarication 		
+ life 		
+ life 		
+ light 		
+ light ; lite ; low-cal ; calorie-free 		
+ light ; visible light ; visible radiation 		
+ like 		
+ like 		
+ like ; similar 		
+ limit ; bound ; boundary 		
+ line 		
+ lion ; king of beasts ; Panthera leo 		
+ lip 		
+ liquid 		
+ liquid 		
+ list ; listing 		
+ listen ; hear ; take heed 		
+ little 		
+ load ; charge 		
+ local 		
+ lock 		
+ lock 		
+ long 		
+ long 		
+ look 		
+ look ; appear ; seem 		
+ lookout ; lookout man ; sentinel ; sentry ; watch ; spotter ; scout ; picket 		
+ lose 		
+ lose 		
+ loss 		
+ loud 		
+ love 		
+ love 		
+ low 		
+ low ; depression 		
+ lucky 		
+ lunch ; luncheon ; tiffin ; dejeuner 		
+ machine 		
+ magazine ; mag 		
+ mail ; mail service ; postal service ; post 		
+ mail ; post ; send 		
+ major 		
+ majority ; bulk 		
+ make ; create 		
+ make ; do 		
+ male 		
+ male ; male person 		
+ male ; manful ; manlike ; manly ; virile 		
+ male child ; boy 		
+ man ; adult male 		
+ manage ; deal ; care ; handle 		
+ management 		
+ management ; direction 		
+ manner ; mode ; style ; way ; fashion 		
+ many 		
+ map 		
+ mark ; grade ; score 		
+ marker ; marking ; mark 		
+ market ; marketplace ; market place 		
+ marriage ; matrimony ; union ; spousal relationship ; wedlock 		
+ marriage ; wedding ; marriage ceremony 		
+ married 		
+ marry ; get married ; wed ; conjoin ; hook up with ; get hitched with ; espouse 		
+ mass 		
+ master ; master copy ; original 		
+ match 		
+ match ; fit ; correspond ; check ; jibe ; gibe ; tally ; agree 		
+ match ; lucifer ; friction match 		
+ material 		
+ material ; stuff 		
+ matter 		
+ matter ; affair ; thing 		
+ me 		
+ meal ; repast 		
+ mean 		
+ mean ; intend 		
+ mean ; mean value 		
+ meaning ; pregnant ; significant 		
+ means ; agency ; way 		
+ measure ; mensurate ; measure out 		
+ measure ; step 		
+ measurement ; measuring ; measure ; mensuration 		
+ meat 		
+ medical 		
+ meet ; run into ; encounter ; run across ; come across ; see 		
+ meeting ; coming together 		
+ member ; fellow member 		
+ memory 		
+ memory ; retention ; retentiveness ; retentivity 		
+ menstruation ; menses ; menstruum ; catamenia ; period ; flow 		
+ mention ; advert ; bring up ; cite ; name ; refer 		
+ menu ; bill of fare ; card ; carte du jour ; carte 		
+ merely ; simply ; just ; only ; but 		
+ metallic ; metal 		
+ metallic element ; metal 		
+ method 		
+ metro ; tube ; underground ; subway system ; subway 		
+ midnight 		
+ might ; mightiness ; power 		
+ military 		
+ military ; armed forces ; armed services ; military machine ; war machine 		
+ milk 		
+ milkshake ; milk shake ; shake 		
+ million ; 1000000 ; one thousand thousand ; meg 		
+ mind ; head ; brain ; psyche ; nous 		
+ mine 		
+ minister ; government minister 		
+ minor ; modest ; small ; small-scale ; pocket-size ; pocket-sized 		
+ minute ; min 		
+ mirror 		
+ miss 		
+ miss 		
+ mistake ; error ; fault 		
+ mod ; modern ; modernistic 		
+ model 		
+ modern 		
+ moisture ; wet 		
+ moment ; minute ; second ; instant 		
+ moment ; mo ; minute ; second ; bit 		
+ money 		
+ money 		
+ monkey 		
+ month 		
+ more ; more than 		
+ more ; to a greater extent 		
+ morning ; morn ; morning time ; forenoon 		
+ mother ; female parent 		
+ motion ; movement ; move ; motility 		
+ mountain ; mount 		
+ mouth 		
+ mouth ; oral cavity ; oral fissure ; rima oris 		
+ move ; displace 		
+ movement ; motion 		
+ movie ; film ; picture ; moving picture ; moving-picture show ; motion picture ; motion-picture show ; picture show ; pic ; flick 		
+ much 		
+ muscle ; musculus 		
+ museum 		
+ music 		
+ musician ; instrumentalist ; player 		
+ my 		
+ nail 		
+ nail 		
+ name 		
+ name ; call 		
+ narrow 		
+ nation ; land ; country 		
+ national 		
+ national 		
+ natural 		
+ natural language ; tongue 		
+ nature 		
+ near ; close ; nigh 		
+ necessary 		
+ necessitate ; ask ; postulate ; need ; require ; take ; involve ; call for ; demand 		
+ neck ; cervix 		
+ necktie ; tie 		
+ need ; demand 		
+ needle 		
+ neighbor ; neighbour 		
+ nerve ; nervus 		
+ net ; network ; mesh ; meshing ; meshwork 		
+ net income ; net ; net profit ; lucre ; profit ; profits ; earnings 		
+ nether ; under 		
+ never 		
+ new 		
+ news ; intelligence ; tidings ; word 		
+ newspaper ; paper 		
+ nice 		
+ night ; nighttime ; dark 		
+ nine ; 9 ; ix 		
+ nineteen ; 19 ; xix 		
+ ninety ; 90 ; xc 		
+ ninth ; 9th 		
+ no 		
+ no 		
+ noise ; dissonance ; racket 		
+ nor 		
+ normal 		
+ normally ; usually ; unremarkably ; commonly ; ordinarily 		
+ north 		
+ north ; due north ; northward ; N 		
+ nose ; olfactory organ 		
+ not ; non 		
+ note ; annotation ; notation 		
+ note ; musical note ; tone 		
+ nothing ; nil ; nix ; nada ; null ; aught ; cipher ; cypher ; goose egg ; naught ; zero ; zilch ; zip ; zippo 		
+ now 		
+ now ; at present 		
+ number 		
+ number 		
+ nurse 		
+ nut 		
+ nut 		
+ obtain 		
+ obviously ; evidently ; manifestly ; patently ; apparently ; plainly ; plain 		
+ occupation ; business ; job ; line of work ; line 		
+ of 		
+ off 		
+ offer 		
+ offer ; offering 		
+ office ; business office 		
+ officeholder ; officer 		
+ oil 		
+ old 		
+ olfactory property ; smell ; aroma ; odor ; odour ; scent 		
+ on 		
+ on 		
+ once ; one time ; in one case 		
+ one ; 1 ; i ; ane 		
+ one-half ; half 		
+ open ; open up 		
+ open ; opened 		
+ open ; unfastened 		
+ open fire ; fire 		
+ operate ; control 		
+ operation 		
+ operation ; functioning ; performance 		
+ operation ; surgery ; surgical operation ; surgical procedure ; surgical process 		
+ opinion ; sentiment ; persuasion ; view ; thought 		
+ opportunity ; chance 		
+ opposite 		
+ option ; alternative ; choice 		
+ or 		
+ orange 		
+ orange ; orangish 		
+ orchestra 		
+ order 		
+ order 		
+ order ; monastic order 		
+ order ; tell ; enjoin ; say 		
+ organization ; organisation 		
+ original 		
+ other 		
+ our 		
+ outburst ; burst ; flare-up 		
+ outside 		
+ outside ; exterior 		
+ oven 		
+ own ; ain 		
+ own ; have ; possess 		
+ owner ; possessor 		
+ package ; bundle ; packet ; parcel 		
+ page 		
+ pain ; hurting 		
+ paint ; pigment 		
+ painting ; picture 		
+ paper 		
+ parallel 		
+ parent 		
+ park ; commons ; common ; green 		
+ part ; portion ; component part ; component ; constituent 		
+ part ; section ; division 		
+ particular 		
+ particularly ; peculiarly ; especially ; specially 		
+ party 		
+ pass ; hand ; reach ; pass on ; turn over ; give 		
+ pass ; laissez passer 		
+ passenger ; rider 		
+ passport 		
+ past 		
+ past ; past times ; yesteryear 		
+ patient 		
+ patient 		
+ pause ; intermission ; break ; interruption ; suspension 		
+ pay 		
+ payment 		
+ peace 		
+ pen 		
+ pencil 		
+ people 		
+ percentage ; percent ; per centum ; pct 		
+ person ; individual ; someone ; somebody ; mortal ; soul 		
+ personal 		
+ personality 		
+ petroleum ; crude oil ; crude ; rock oil ; fossil oil ; oil 		
+ phase ; stage 		
+ photographer ; lensman 		
+ physical 		
+ physical 		
+ picture ; image ; icon ; ikon 		
+ piece 		
+ pilot ; airplane pilot 		
+ pin 		
+ pink ; pinkish 		
+ pipe ; pipage ; piping 		
+ pivot ; pin 		
+ plain ; field ; champaign 		
+ plan 		
+ plan ; program ; programme 		
+ plant ; flora ; plant life 		
+ plant ; works ; industrial plant 		
+ plate 		
+ play 		
+ player ; participant 		
+ please 		
+ please ; delight 		
+ pleasure ; pleasance 		
+ plow ; plough ; turn 		
+ poem ; verse form 		
+ poetry ; poesy ; verse 		
+ point ; dot 		
+ poison 		
+ poison ; toxicant ; poisonous substance 		
+ police ; police force ; constabulary ; law 		
+ policeman ; police officer ; officer 		
+ policy 		
+ polish ; smooth ; smoothen ; shine 		
+ political 		
+ politician ; politico ; pol ; political leader 		
+ poor 		
+ populace ; public ; world 		
+ popular 		
+ popular ; pop 		
+ population 		
+ position ; place 		
+ possible 		
+ possibly ; perchance ; perhaps ; maybe ; mayhap ; peradventure 		
+ postage ; postage stamp ; stamp 		
+ potato ; white potato ; Irish potato ; murphy ; spud ; tater 		
+ potent ; strong ; stiff 		
+ powder ; pulverization ; pulverisation 		
+ power ; powerfulness 		
+ practice 		
+ practice ; practise ; exercise ; do 		
+ precisely ; exactly ; just 		
+ preferably ; sooner ; rather 		
+ present 		
+ present 		
+ present ; nowadays 		
+ president 		
+ press 		
+ pressure ; pressure level ; force per unit area 		
+ prevent ; forestall ; foreclose ; preclude ; forbid 		
+ previous ; old 		
+ price 		
+ price 		
+ price ; cost ; toll 		
+ price ; terms ; damage 		
+ principle ; rule 		
+ print ; impress 		
+ prison ; prison house 		
+ private 		
+ probable ; likely 		
+ probably ; likely ; in all likelihood ; in all probability ; belike 		
+ problem ; job 		
+ procedure ; process 		
+ process ; physical process 		
+ process ; treat 		
+ produce ; make ; create 		
+ product ; production 		
+ production 		
+ professional 		
+ professional ; professional person 		
+ profit ; turn a profit 		
+ program ; programme ; computer program ; computer programme 		
+ project ; projection 		
+ promise ; hope 		
+ pronunciation 		
+ property 		
+ property ; belongings ; holding 		
+ proposal 		
+ propose ; suggest ; advise 		
+ protest 		
+ protest ; protestation 		
+ prototype ; paradigm ; epitome ; image 		
+ public 		
+ publish ; bring out ; put out ; issue ; release 		
+ pull ; draw ; force 		
+ pump 		
+ pump 		
+ punishment ; penalty ; penalization ; penalisation 		
+ purple ; violet ; purplish 		
+ push ; force 		
+ push button ; push ; button 		
+ put ; set ; place ; pose ; position ; lay 		
+ quality 		
+ quality ; character ; lineament 		
+ question ; inquiry ; enquiry ; query ; interrogation 		
+ quickly ; rapidly ; speedily ; chop-chop ; apace 		
+ quiet 		
+ quite ; rather 		
+ rain ; pelting 		
+ rain ; rain down 		
+ rain ; rainfall 		
+ raise ; lift ; elevate ; get up ; bring up 		
+ range ; reach 		
+ rate ; charge per unit 		
+ rate ; rank ; range ; order ; grade ; place 		
+ reach ; make ; attain ; hit ; arrive at ; gain 		
+ reaction 		
+ read 		
+ ready 		
+ real ; existent 		
+ rear ; raise ; bring up ; nurture ; parent 		
+ reason 		
+ reason 		
+ reason ; ground 		
+ receive ; have 		
+ recent 		
+ recently ; late ; lately ; of late ; latterly 		
+ record 		
+ record ; tape 		
+ red ; reddish ; ruddy ; blood-red ; carmine ; cerise ; cherry ; cherry-red ; crimson ; ruby ; ruby-red ; scarlet 		
+ reduce ; cut down ; cut back ; trim ; trim down ; trim back ; cut ; bring down 		
+ reflect ; reverberate 		
+ refuse ; reject ; pass up ; turn down ; decline 		
+ region ; part 		
+ regular 		
+ relation 		
+ relationship ; human relationship 		
+ religion ; faith ; organized religion 		
+ religion ; faith ; religious belief 		
+ remainder ; balance ; residual ; residue ; residuum ; rest 		
+ remember ; retrieve ; recall ; call back ; call up ; recollect ; think 		
+ remove ; take ; take away ; withdraw 		
+ render ; return 		
+ report 		
+ report ; study ; written report 		
+ repose ; quiet ; placidity ; serenity ; tranquillity ; tranquility 		
+ represent ; stand for ; correspond 		
+ representative 		
+ request ; asking 		
+ request ; bespeak ; call for ; quest 		
+ research 		
+ research 		
+ respect ; honor ; honour ; abide by ; observe 		
+ respite ; recess ; break ; time out 		
+ responsibility ; responsibleness 		
+ responsible 		
+ rest 		
+ rest ; ease ; repose ; relaxation 		
+ restaurant ; eating house ; eating place ; eatery 		
+ restrict ; restrain ; trammel ; limit ; bound ; confine ; throttle 		
+ result ; resultant ; final result ; outcome ; termination 		
+ return ; homecoming 		
+ reverse ; contrary ; opposite 		
+ rhythm ; beat ; musical rhythm 		
+ rice 		
+ rice 		
+ right 		
+ right 		
+ right 		
+ right 		
+ right 		
+ rigid ; stiff 		
+ ring ; band 		
+ rise ; rising ; ascent ; ascension 		
+ rival ; challenger ; competitor ; competition ; contender 		
+ river 		
+ road ; route 		
+ rock ; stone 		
+ roof 		
+ room 		
+ root 		
+ root 		
+ rope 		
+ rough ; unsmooth 		
+ round ; circular 		
+ round off ; round down ; round out ; round 		
+ rug ; carpet ; carpeting 		
+ rule ; regulation 		
+ run 		
+ sad 		
+ safe 		
+ safe 		
+ sail ; canvas ; canvass ; sheet 		
+ sailor ; crewman 		
+ salad 		
+ sale 		
+ salt 		
+ salt ; table salt ; common salt 		
+ salvage ; salve ; relieve ; save 		
+ same 		
+ sand 		
+ sandwich 		
+ sauce 		
+ save ; preserve 		
+ school 		
+ school ; schoolhouse 		
+ science ; scientific discipline 		
+ scientist 		
+ scissors ; pair of scissors 		
+ scope ; range ; reach ; orbit ; compass ; ambit 		
+ screen ; cover ; covert ; concealment 		
+ screw 		
+ sea 		
+ season 		
+ season ; flavor ; flavour 		
+ seat 		
+ seat ; place 		
+ second ; 2nd ; 2d 		
+ second ; sec ; s 		
+ secondhand ; used 		
+ secret 		
+ secretary ; secretarial assistant 		
+ section ; subdivision 		
+ see 		
+ see ; consider ; reckon ; view ; regard 		
+ seed 		
+ sell 		
+ sentence 		
+ separate 		
+ serial ; series 		
+ serious 		
+ servant ; retainer 		
+ serve 		
+ service 		
+ set 		
+ set 		
+ seven ; 7 ; vii 		
+ seventeen ; 17 ; xvii 		
+ seventh ; 7th 		
+ seventy ; 70 ; lxx 		
+ several 		
+ sew ; run up ; sew together ; stitch 		
+ sex 		
+ sexual activity ; sexual practice ; sex ; sex activity 		
+ share 		
+ share 		
+ share ; portion ; part ; percentage 		
+ she 		
+ sheep 		
+ shelf 		
+ ship 		
+ shirt 		
+ shock ; offend ; scandalize ; scandalise ; appal ; appall ; outrage 		
+ shoe 		
+ shop ; store 		
+ short 		
+ shout ; shout out ; cry ; call ; yell ; scream ; holler ; hollo ; squall 		
+ show 		
+ show ; demo ; exhibit ; present ; demonstrate 		
+ shower 		
+ shroud ; enshroud ; hide ; cover 		
+ shut ; unopen ; closed 		
+ side 		
+ sign 		
+ significant ; important 		
+ silence ; quiet 		
+ silent ; soundless ; still 		
+ silk 		
+ silver 		
+ silver ; Ag ; atomic number 47 		
+ similar 		
+ since 		
+ sincere 		
+ sing 		
+ singer ; vocalist ; vocalizer ; vocaliser 		
+ single 		
+ sink 		
+ sister ; sis 		
+ sit ; sit down 		
+ situation ; state of affairs 		
+ six ; 6 ; vi ; half dozen ; half-dozen 		
+ sixteen ; 16 ; xvi 		
+ sixth ; 6th 		
+ sixty ; 60 ; lx ; threescore 		
+ size 		
+ skid ; slip ; sideslip 		
+ skill ; science 		
+ skin ; peel ; pare 		
+ skin ; tegument ; cutis 		
+ skirt 		
+ sky 		
+ sleep ; slumber 		
+ slice ; piece 		
+ slow 		
+ slowly ; slow ; easy ; tardily 		
+ small ; little 		
+ smash ; nail ; boom ; blast 		
+ smell 		
+ smell 		
+ smell 		
+ smile 		
+ smile ; smiling ; grin ; grinning 		
+ smoke 		
+ smoke ; fume 		
+ smooth 		
+ snake ; serpent ; ophidian 		
+ snog ; kiss ; buss ; osculate 		
+ snow 		
+ snow 		
+ snow ; snowfall 		
+ so 		
+ soap 		
+ soap ; lather 		
+ social 		
+ society 		
+ sock 		
+ soft 		
+ soldier 		
+ solid 		
+ sometimes 		
+ son ; boy 		
+ song ; vocal 		
+ soon ; shortly ; presently ; before long 		
+ sound 		
+ soup 		
+ south 		
+ south ; due south ; southward ; S 		
+ space ; infinite 		
+ sparse ; thin 		
+ specific 		
+ speech ; speech communication ; spoken communication ; spoken language ; language ; voice communication ; oral communication 		
+ spelling 		
+ spend ; pass 		
+ spill ; tumble ; fall 		
+ spoon 		
+ spring 		
+ spring ; fountain ; outflow ; outpouring ; natural spring 		
+ spring ; springtime 		
+ square 		
+ square ; foursquare 		
+ square ; second power 		
+ squash ; crush ; squelch ; mash ; squeeze 		
+ staff 		
+ stage 		
+ stalk ; stem 		
+ stamp 		
+ stand ; stand up 		
+ standard 		
+ standard ; criterion ; measure ; touchstone 		
+ star 		
+ state 		
+ state 		
+ state ; province 		
+ state ; say ; tell 		
+ statement 		
+ station 		
+ stay ; remain ; rest 		
+ steal 		
+ steam 		
+ steel 		
+ step ; stair 		
+ stick 		
+ still 		
+ stitch 		
+ stomach ; tummy ; tum ; breadbasket 		
+ stop ; halt 		
+ stop ; halt 		
+ straight 		
+ strange ; unusual 		
+ stream ; flow ; current 		
+ street 		
+ stretch 		
+ strong 		
+ structure 		
+ structure ; construction 		
+ student ; pupil ; educatee 		
+ study 		
+ stupid 		
+ style 		
+ stylish ; fashionable 		
+ subject ; dependent 		
+ subject ; topic ; theme 		
+ subsequently ; later ; afterwards ; afterward ; after ; later on 		
+ substitution ; exchange ; commutation 		
+ success 		
+ successful 		
+ such 		
+ sudden 		
+ suddenly ; all of a sudden ; of a sudden 		
+ suffer ; endure 		
+ sugar ; refined sugar 		
+ sugar ; saccharify 		
+ suggestion ; proposition ; proffer 		
+ sum ; amount ; total 		
+ summation ; addition ; plus 		
+ summer ; summertime 		
+ sun ; Sun 		
+ supermarket 		
+ supplant ; replace ; supersede ; supervene upon ; supercede 		
+ supply ; provide ; render ; furnish 		
+ support 		
+ support ; back up 		
+ suppose ; say 		
+ surely ; certainly ; sure ; for sure ; for certain ; sure enough ; sure as shooting 		
+ surface 		
+ surprise 		
+ surprise 		
+ surrender ; give up 		
+ survive ; last ; live ; live on ; go ; endure ; hold up ; hold out 		
+ sweet 		
+ sweet ; sweetness ; sugariness 		
+ swim 		
+ sympathize ; sympathise ; empathize ; empathise ; understand 		
+ system ; scheme 		
+ table 		
+ table ; tabular array 		
+ tail 		
+ take ; get hold of 		
+ talk ; speak ; utter ; mouth ; verbalize ; verbalise 		
+ tall 		
+ taste ; gustation ; sense of taste ; gustatory modality 		
+ taste ; savor ; savour 		
+ tax ; taxation ; revenue enhancement 		
+ tea 		
+ teach ; learn ; instruct 		
+ teacher ; instructor 		
+ team ; squad 		
+ technology ; engineering 		
+ television camera ; tv camera ; camera 		
+ television receiver ; television ; television set ; tv ; tv set ; idiot box ; boob tube ; telly ; goggle box 		
+ ten ; 10 ; x 		
+ tend ; be given ; lean ; incline ; run 		
+ tendency ; trend 		
+ tennis ; lawn tennis 		
+ tenth ; 10th 		
+ test ; prove ; try ; try out ; examine ; essay 		
+ testify ; bear witness ; prove ; evidence ; show 		
+ than 		
+ thank ; give thanks 		
+ that 		
+ the 		
+ theater ; theatre ; house 		
+ their 		
+ them 		
+ then ; so ; and so ; and then 		
+ theory 		
+ there ; at that place ; in that location 		
+ therefore ; hence ; thence ; thus ; so 		
+ these 		
+ they 		
+ thick 		
+ thick 		
+ thin 		
+ thin ; lean 		
+ thing 		
+ think ; cogitate ; cerebrate 		
+ third ; 3rd ; tertiary 		
+ thirsty 		
+ thirteen ; 13 ; xiii 		
+ thirty ; 30 ; xxx 		
+ this 		
+ thorax ; chest ; pectus 		
+ those 		
+ thousand ; one thousand ; 1000 ; M ; K ; chiliad ; G ; grand ; thou ; yard 		
+ thousand ; one thousand ; 1000 ; m ; k 		
+ three ; 3 ; iii 		
+ throat ; pharynx 		
+ through 		
+ throw 		
+ throw 		
+ thumb ; pollex 		
+ ticket 		
+ ticket 		
+ tight 		
+ time period ; period of time ; period 		
+ tired 		
+ title 		
+ to 		
+ today 		
+ today 		
+ toe 		
+ together 		
+ toilet ; lavatory ; lav ; can ; john ; privy ; bathroom 		
+ tomato 		
+ tomato ; love apple ; tomato plant ; Lycopersicon esculentum 		
+ tomorrow 		
+ tomorrow 		
+ tongue ; lingua ; glossa ; clapper 		
+ tonight ; this evening ; this night 		
+ tooth 		
+ topographic point ; place ; spot 		
+ torso ; trunk ; body 		
+ touch ; touching 		
+ town 		
+ trace ; draw ; line ; describe ; delineate 		
+ track ; rail ; rails ; runway 		
+ trade 		
+ trade ; merchandise 		
+ train ; develop ; prepare ; educate 		
+ train ; railroad train 		
+ training ; preparation ; grooming 		
+ transport ; carry 		
+ transport ; send ; ship 		
+ transportation ; shipping ; transport 		
+ travel ; go ; move ; locomote 		
+ treat ; care for 		
+ treatment ; handling 		
+ tree 		
+ tremble ; shiver ; shake 		
+ trick 		
+ trouble ; problem 		
+ true 		
+ truly ; genuinely ; really 		
+ truthful ; true 		
+ try ; seek ; attempt ; essay ; assay 		
+ turn 		
+ twelfth ; 12th 		
+ twenty ; 20 ; xx 		
+ two ; 2 ; ii 		
+ type 		
+ ugly 		
+ understand 		
+ undertaking ; project ; task ; labor 		
+ unemployed 		
+ union 		
+ unit of measurement ; unit 		
+ university 		
+ university 		
+ university 		
+ unlike ; dissimilar ; different 		
+ unmarried ; single 		
+ until 		
+ unusual 		
+ unwrap ; disclose ; let on ; bring out ; reveal ; discover ; expose ; divulge ; break ; give away ; let out 		
+ up ; upwards ; upward ; upwardly 		
+ us 		
+ use ; usage ; utilization ; utilisation ; employment ; exercise 		
+ use ; utilize ; utilise ; apply ; employ 		
+ useful ; utile 		
+ user 		
+ usual 		
+ vacation ; holiday 		
+ value 		
+ very ; really ; real ; rattling 		
+ village ; hamlet 		
+ village ; small town ; settlement 		
+ violent 		
+ visit 		
+ visit ; see 		
+ vogue ; trend ; style 		
+ voice ; vocalization ; vocalisation ; vocalism ; phonation ; vox 		
+ volition ; will 		
+ wages ; reward ; payoff 		
+ wait ; hold off ; hold back 		
+ walk 		
+ wall 		
+ war ; state of war 		
+ warm 		
+ warm 		
+ wash ; launder 		
+ waste ; waste material ; waste matter ; waste product 		
+ watch ; ticker 		
+ watch ; view ; see ; catch ; take in 		
+ water ; H2O 		
+ wave ; moving ridge 		
+ we 		
+ wear 		
+ wear ; have on 		
+ weather ; weather condition ; conditions ; atmospheric condition 		
+ wedding ; wedding ceremony ; nuptials ; hymeneals 		
+ week ; calendar week 		
+ weekend 		
+ weigh 		
+ weight 		
+ well 		
+ well ; good 		
+ west 		
+ west ; due west ; westward ; W 		
+ wet 		
+ wet 		
+ what 		
+ wheel 		
+ whenever 		
+ whether 		
+ which 		
+ while ; piece ; spell ; patch 		
+ whip 		
+ white 		
+ who 		
+ whole 		
+ whole 		
+ whom 		
+ whose 		
+ why 		
+ wide ; broad 		
+ wife ; married woman 		
+ will 		
+ will ; testament 		
+ win 		
+ win 		
+ wind ; air current ; current of air 		
+ wind ; wrap ; roll ; twine 		
+ window 		
+ wine ; vino 		
+ wing 		
+ winter ; wintertime 		
+ wire 		
+ wise 		
+ wish 		
+ wish ; wishing ; want 		
+ with 		
+ woman ; adult female 		
+ wood 		
+ wool 		
+ word 		
+ work 		
+ work 		
+ work ; piece of work 		
+ worker 		
+ world 		
+ write 		
+ writer ; author 		
+ writing 		
+ year ; twelvemonth ; yr 		
+ yellow ; yellowish ; xanthous 		
+ yes 		
+ young ; immature 		
+ your 		
+ yourself 		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
